@@ -8,3 +8,7 @@ College project for parking system
 ```bash
 rm -rf /
 ```
+
+```python
+import math
+```
